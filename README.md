@@ -2,7 +2,8 @@
 
 - 🇧🇷 &nbsp;Brasil, Rio Grande do Sul
 - 🔭 &nbsp;Desenvolvedor de software Web e Mobile
-- 🚀 &nbsp;Entusiasta de Node.js, Python, Go e Flutter
+- 🌱 &nbsp;Atualmente estou estudando Python e Go
+- 🚀 &nbsp;Entusiasta de IoT, Python, Go e Flutter
 
 ### Encontre-me 🌎
 
