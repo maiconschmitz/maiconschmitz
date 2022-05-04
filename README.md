@@ -9,7 +9,7 @@
 
 - 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/maiconschmitz/)
 - 👨‍💻 &nbsp;[Blog](https://www.maiconschmitz.com.br) 
-- 🗄️ &nbsp;[Google Developer Profile](https://developers.google.com/profile/u/101290574919837977899?hl=pt-br)
+- 🗄️ &nbsp;[Google Developer Profile](https://g.dev/maiconschmitz)
 - 🗄️ &nbsp;[Microsoft Developer Profile](https://docs.microsoft.com/pt-br/users/maiconschmitz/)
 - 🐦 &nbsp;[Twitter](https://twitter.com/maiconschmitz)
 - 📫 &nbsp;[E-mail](mailto:maiconschmitz@gmail.com)
