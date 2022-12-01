@@ -2,8 +2,8 @@
 
 - 🇧🇷 &nbsp;Brasil, Rio Grande do Sul
 - 🔭 &nbsp;Desenvolvedor de software Web e Mobile
-- 🌱 &nbsp;Atualmente estou estudando Python, Terraform e Flutter
-- 🚀 &nbsp;Entusiasta de IoT, Automação e Raspberry
+- 🌱 &nbsp;Atualmente estou estudando Python, Terraform e Nomad
+- 🚀 &nbsp;Entusiasta de IoT, Automação e Raspberry Pi
 
 
 ### Tecnologias
