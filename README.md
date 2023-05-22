@@ -2,7 +2,7 @@
 
 - 🇧🇷 &nbsp;Brasil, Rio Grande do Sul
 - 🔭 &nbsp;Desenvolvedor de software Web e Mobile
-- 🌱 &nbsp;Atualmente estou estudando Python
+- 🌱 &nbsp;Atualmente estou estudando Python e GO
 - 🚀 &nbsp;Entusiasta de IoT, Automação e Raspberry Pi
 
 
