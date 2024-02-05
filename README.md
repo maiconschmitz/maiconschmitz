@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white&color=36b1da)
+![](https://img.shields.io/badge/NoSQL-MongoDB-blue?style=flat&logo=mongodb&logoColor=white&color=36b1da)
+![](https://img.shields.io/badge/NoSQL-Redis-blue?style=flat&logo=redis&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Cloud-AWS-blue?style=flat&logo=Amazon&logoColor=white&color=36b1da)
 
