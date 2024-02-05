@@ -8,10 +8,11 @@
 
 ### Tecnologias
 
-![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=php&logoColor=white&color=36b1da)
-![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&color=36b1da)
+![](https://img.shields.io/badge/Code-GO-blue?style=flat&logo=go&logoColor=white&color=36b1da)
+![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Code-Flutter-blue?style=flat&logo=flutter&logoColor=white&color=36b1da)
+![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=php&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/OS-macOS-blue?style=flat&logo=macos&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux&logoColor=white&color=36b1da)
 ![](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white&color=36b1da)
