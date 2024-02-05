@@ -27,7 +27,7 @@
 
 - 👨‍💻 &nbsp;[Blog](https://www.maiconschmitz.com.br)
 - 📫 &nbsp;[E-mail](mailto:maiconschmitz@gmail.com)
-- 🐦 &nbsp;[Twitter](https://twitter.com/maiconschmitz)
+- 🐦 &nbsp;[X (ex Twitter)](https://x.com/maiconschmitz)
 - 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/maiconschmitz/)
 - 🗄️ &nbsp;[Google Developer Profile](https://g.dev/maiconschmitz)
 - 🗄️ &nbsp;[Microsoft Developer Profile](https://docs.microsoft.com/pt-br/users/maiconschmitz/)
