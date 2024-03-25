@@ -1,7 +1,7 @@
 ## Olá, me chamo Maicon Schmitz 👋
 
 - 🇧🇷 &nbsp;Brasil, Rio Grande do Sul
-- 🔭 &nbsp;Desenvolvedor de software Web e Mobile
+- 🔭 &nbsp;Desenvolvedor de software Backend, Web e Mobile
 - 🌱 &nbsp;Atualmente estou estudando Python e GO
 - 🚀 &nbsp;Entusiasta de IoT, Automação e Raspberry Pi
 
